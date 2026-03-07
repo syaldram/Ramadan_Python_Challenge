@@ -1,0 +1,6 @@
+2026-02-24 10:00:01 INFO Starting process
+2026-02-24 10:00:02 WARN Disk space low
+2026-02-24 10:00:03 ERROR Failed to connect to DB
+2026-02-24 10:00:04 INFO Retrying connection
+2026-02-24 10:00:05 INFO Connected successfully
+2026-02-24 10:00:06 INFO Process completed
